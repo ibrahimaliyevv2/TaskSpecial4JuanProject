@@ -9,7 +9,7 @@ namespace JuanProject.Areas.Manage.Controllers
 
     public class DashboardController : Controller
     {
-        [Manage]
+        [Area("Manage")]
         public IActionResult Index()
         {
             return View();

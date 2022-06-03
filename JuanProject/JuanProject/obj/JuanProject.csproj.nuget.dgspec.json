@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrahimaliyevv\\Documents\\repos\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj": {}
+    "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrahimaliyevv\\Documents\\repos\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj": {
+    "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrahimaliyevv\\Documents\\repos\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
+        "projectUniqueName": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
         "projectName": "JuanProject",
-        "projectPath": "C:\\Users\\ibrahimaliyevv\\Documents\\repos\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
+        "projectPath": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
         "packagesPath": "C:\\Users\\ibrahimaliyevv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrahimaliyevv\\Documents\\repos\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\obj\\",
+        "outputPath": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
