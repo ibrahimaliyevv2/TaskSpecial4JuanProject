@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <form asp-action="create" method="post">
+                <div class="mb-3">
+                    <label asp-for="SubTitle" class="form-label">SubTitle</label>
+                    <input asp-for="SubTitle" type="text" class="form-control" >
+                    <span class="text-danger" asp-validation-for="SubTitle"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Title" class="form-label">BirthDate</label>
+                    <input asp-for="Title"  class="form-control" >
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
