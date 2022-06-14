@@ -29,7 +29,7 @@ namespace JuanProject
 
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseSqlServer(@"Server=DESKTOP-LUGHNBO;Database=JuanDB;Trusted_Connection=TRUE");
+                options.UseSqlServer(@"Server=CAPR6;Database=PrcticeJuan;Trusted_Connection=TRUE");
             });
         }
 

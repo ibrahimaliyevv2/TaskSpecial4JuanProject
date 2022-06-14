@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@model Slider
 <div class="container">
     <div class="row">
@@ -22,9 +23,35 @@
                     <label asp-for="Description" class="form-label">Description</label>
                     <input asp-for="Description" class="form-control">
                     <span class="text-danger" asp-validation-for="Description"></span>
+=======
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <form asp-action="create" method="post">
+                <div class="mb-3">
+                    <label asp-for="SubTitle" class="form-label">SubTitle</label>
+                    <input asp-for="SubTitle" type="text" class="form-control" >
+                    <span class="text-danger" asp-validation-for="SubTitle"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Title" class="form-label">BirthDate</label>
+                    <input asp-for="Title"  class="form-control" >
+                    <span class="text-danger" asp-validation-for="Title"></span>
+>>>>>>> 5d97ff2b11fd0b089879efa1394a3129d0c0e1f6
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
     </div>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+>>>>>>> 5d97ff2b11fd0b089879efa1394a3129d0c0e1f6

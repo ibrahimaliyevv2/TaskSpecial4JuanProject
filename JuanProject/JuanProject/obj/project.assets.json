@@ -8476,24 +8476,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ibrahimaliyevv\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bduguest\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
+      "projectUniqueName": "C:\\Users\\bduguest\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
       "projectName": "JuanProject",
-      "projectPath": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
-      "packagesPath": "C:\\Users\\ibrahimaliyevv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrahimaliyevv\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\obj\\",
+      "projectPath": "C:\\Users\\bduguest\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\JuanProject.csproj",
+      "packagesPath": "C:\\Users\\bduguest\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bduguest\\Desktop\\TaskSpecial4JuanProject\\JuanProject\\JuanProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ibrahimaliyevv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\bduguest\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JuanProject.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220602144025_test")]
-    partial class test
+    [Migration("20220607112322_TablesAdded")]
+    partial class TablesAdded
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
