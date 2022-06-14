@@ -1,0 +1,34 @@
+﻿@model HomeViewModel
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Title</th>
+                            <th scope="col">Subtitle</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Image</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Slider sld in Model.Sliders)
+                        {
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>@sld.Title</td>
+                                <td>@sld.SubTitle</td>
+                                <td>@sld.Description</td>
+                                <td>
+                                    <img style="width:150px" src="~/assets/img/slider/@sld.Image"/>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
